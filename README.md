@@ -16,4 +16,12 @@ Java OO - Introdução à orientação a objetos
 [Visualizar certificado](https://cursos.alura.com.br/certificate/109270da-cc65-4b94-8063-f7e614ba9db3)<br>
 [Repositório Curso](https://github.com/RamonLuz/ByteBank-Java)<br>
 
+Selenium: Testes automatizados de aceitação em Java
+-------------------------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [Alura Cursos](https://cursos.alura.com.br/)<br>
+**Emitido em:** 28 de Setembro de 2021<br>
+[Visualizar certificado](https://cursos.alura.com.br/certificate/6b447a56-6b91-4c58-9618-6a8b98baa57d)<br>
+[Repositório Curso](#)<br>
+
 
